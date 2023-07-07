@@ -21,5 +21,4 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
-gibo 2.2.8 by Simon Whitaker
-https://github.com/simonwhitaker/gibo
+vendor/bundle
